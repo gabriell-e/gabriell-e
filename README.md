@@ -39,7 +39,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square)
+![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
 
 **Herramientas**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
