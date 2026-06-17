@@ -57,10 +57,4 @@
 
 ---
 
-### Actividad
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriell-e&show_icons=true&theme=dark&hide_title=true)
-
----
-
 <p align="center"><i>Abierto a oportunidades de pasantía o primer empleo en desarrollo de software / IA aplicada</i></p>
